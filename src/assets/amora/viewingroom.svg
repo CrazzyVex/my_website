@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+  <rect width="100%" height="100%" rx="12" fill="#ffffff"/>
+  <g transform="translate(20,24)">
+    <rect width="480" height="360" rx="12" fill="#fff" stroke="#eee"/>
+    <rect x="520" width="260" height="140" rx="10" fill="#fff" stroke="#eee"/>
+    <rect x="520" y="160" width="260" height="140" rx="10" fill="#fff" stroke="#eee"/>
+  </g>
+  <text x="36" y="44" fill="#6e6e73" font-size="18" font-family="Inter, Arial">Viewing room</text>
+</svg>

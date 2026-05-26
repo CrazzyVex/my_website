@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="100%" height="100%" rx="12" fill="#ffffff"/>
+  <g transform="translate(24,28)" fill="#fafafa">
+    <rect width="160" height="100" rx="10" stroke="#eee"/>
+    <rect x="180" width="160" height="100" rx="10" stroke="#eee"/>
+    <rect x="360" width="160" height="100" rx="10" stroke="#eee"/>
+  </g>
+  <text x="36" y="56" fill="#6e6e73" font-size="18" font-family="Inter, Arial">Team workspace</text>
+</svg>
